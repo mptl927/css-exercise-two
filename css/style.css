@@ -1,8 +1,40 @@
 body {
-  background-color: #ff0000;
-  color: #0000FF;
+  background-color:white;
+  color: orchid;
+  font-size: 24px;
+
+}
+figcaption{
+  font-size: 50%;
+  color:purple;
+}
+h1 {
+  font-size: 250%; /* 32px */
+}
+h3 {
+  color:plum;
 }
 
+p {
+  font-size: 66%; /* 16px */
+  line-height: 1.3;
+  color:darkorchid;
+}
+a{
+  text-decoration: none
+}
+a:link{
+  color:darkorchid;
+}
+a:visited{
+  color:lavender;
+}
+a:hover{
+  color:pink;
+}
+a:active{
+  color:orchid;
+}
 nav {
   background-color: rgba(0,0,0,.5);
   float: left;
