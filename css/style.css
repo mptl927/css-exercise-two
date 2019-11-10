@@ -20,6 +20,12 @@ p {
   line-height: 1.3;
   color:darkorchid;
 }
+p + p {
+  margin-top: 10px;
+}
+.author {
+  margin-bottom: 10px;
+}
 a{
   text-decoration: none
 }
